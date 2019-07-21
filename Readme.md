@@ -1,7 +1,7 @@
 # Deep Vision Project
 The following project is presented as a project for the course Deep Vision at Universitat Heidelberg. This is an implementation of the paper presented at CVPR-2019 Arbitrary Style Transfer with Style-Attentional Networks. 
 
-![Alt text](./result/result1.png)
+![Alt text](https://github.com/mumair5393/Style-Transfer-with-Style-Attentional-Networks/blob/master/results/result1.png)
 
  
 ## References
